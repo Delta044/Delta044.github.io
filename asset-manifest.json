@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.56cd45f5.css",
-    "main.js": "/static/js/main.487ddb55.js",
+    "main.js": "/static/js/main.abec5553.js",
     "static/media/BERNIERDistressed-Regular.otf": "/static/media/BERNIERDistressed-Regular.161314438e88e3c9988d.otf",
     "static/media/Caveat-Bold.ttf": "/static/media/Caveat-Bold.555028eae200f6300bb8.ttf",
     "static/media/Caveat-Regular.ttf": "/static/media/Caveat-Regular.6dbd24b1f531c1b958f0.ttf",
@@ -9,10 +9,10 @@
     "static/media/BERNIERRegular-Regular.otf": "/static/media/BERNIERRegular-Regular.94a2d1455288a239f0f0.otf",
     "index.html": "/index.html",
     "main.56cd45f5.css.map": "/static/css/main.56cd45f5.css.map",
-    "main.487ddb55.js.map": "/static/js/main.487ddb55.js.map"
+    "main.abec5553.js.map": "/static/js/main.abec5553.js.map"
   },
   "entrypoints": [
     "static/css/main.56cd45f5.css",
-    "static/js/main.487ddb55.js"
+    "static/js/main.abec5553.js"
   ]
 }
